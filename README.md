@@ -1,5 +1,5 @@
 # SlackBuilds
-**my contribution to SlackBuilds.org**
+**my contribution to [SlackBuilds.org](https://slackbuilds.org/)**
 
 ## SlackBuilds List
 
