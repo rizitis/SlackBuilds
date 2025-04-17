@@ -17,7 +17,8 @@
 - [epub2txt2](https://slackbuilds.org/repository/15.0/office/epub2txt2/) [[dependees]](https://slackbuilds.org/advsearch.php?stype=revdep1&q=epub2txt2)  
 - [hunspell-ancient-greek](https://slackbuilds.org/repository/15.0/office/hunspell-ancient-greek/) [[dependees]](https://slackbuilds.org/advsearch.php?stype=revdep1&q=hunspell-ancient-greek)  
 - [hunspell-gr](https://slackbuilds.org/repository/15.0/office/hunspell-gr/) [[dependees]](https://slackbuilds.org/advsearch.php?stype=revdep1&q=hunspell-gr)  
-- [sent](https://slackbuilds.org/repository/15.0/office/sent/) [[dependees]](https://slackbuilds.org/advsearch.php?stype=revdep1&q=sent)  
+- [sent](https://slackbuilds.org/repository/15.0/office/sent/) [[dependees]](https://slackbuilds.org/advsearch.php?stype=revdep1&q=sent)
+- [star-tex](https://slackbuilds.org/repository/15.0/office/star-tex/) [[dependees]](https://slackbuilds.org/advsearch.php?stype=revdep1&q=star-tex)
 
 ### Development
 - [a68g](https://slackbuilds.org/repository/15.0/development/a68g/) [[dependees]](https://slackbuilds.org/advsearch.php?stype=revdep1&q=a68g)  
