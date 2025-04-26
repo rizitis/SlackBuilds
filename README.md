@@ -10,7 +10,7 @@
 - [fzy](https://slackbuilds.org/repository/15.0/system/fzy/) [[dependees]](https://slackbuilds.org/advsearch.php?stype=revdep1&q=fzy)  
 - [jnv-bin](https://slackbuilds.org/repository/15.0/system/jnv-bin/) [[dependees]](https://slackbuilds.org/advsearch.php?stype=revdep1&q=jnv-bin)  
 - [sff](https://slackbuilds.org/repository/15.0/system/sff/) [[dependees]](https://slackbuilds.org/advsearch.php?stype=revdep1&q=sff)
-- [oxker-bin](https://slackbuilds.org/repository/15.0/system/oxker-bin) [[dependees]](https://slackbuilds.org/advsearch.php?stype=revdep1&q=oxker-bin)  
+- [oxker-bin](https://slackbuilds.org/repository/15.0/system/oxker-bin/) [[dependees]](https://slackbuilds.org/advsearch.php?stype=revdep1&q=oxker-bin)  
 
 ### Office
 - [OpenAudible-bin](https://slackbuilds.org/repository/15.0/office/OpenAudible-bin/) [[dependees]](https://slackbuilds.org/advsearch.php?stype=revdep1&q=OpenAudible-bin)  
