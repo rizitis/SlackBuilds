@@ -42,7 +42,8 @@
 ### Misc
 - [balena-etcher-bin](https://slackbuilds.org/repository/15.0/misc/balena-etcher-bin/) [[dependees]](https://slackbuilds.org/advsearch.php?stype=revdep1&q=balena-etcher-bin)  
 - [countryfetch](https://slackbuilds.org/repository/15.0/misc/countryfetch/) [[dependees]](https://slackbuilds.org/advsearch.php?stype=revdep1&q=countryfetch)  
-- [stardict](https://slackbuilds.org/repository/15.0/misc/stardict/) [[dependees]](https://slackbuilds.org/advsearch.php?stype=revdep1&q=stardict)  
+- [stardict](https://slackbuilds.org/repository/15.0/misc/stardict/) [[dependees]](https://slackbuilds.org/advsearch.php?stype=revdep1&q=stardict)
+- [boxes](https://slackbuilds.org/repository/15.0/misc/boxes/)  [[dependees]](https://slackbuilds.org/advsearch.php?stype=revdep1&q=boxes)
 
 ### Audio
 - [dopamine-bin](https://slackbuilds.org/repository/15.0/audio/dopamine-bin/) [[dependees]](https://slackbuilds.org/advsearch.php?stype=revdep1&q=dopamine-bin)  
