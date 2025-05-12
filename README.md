@@ -28,7 +28,7 @@
 - [gitify-bin](https://slackbuilds.org/repository/15.0/development/gitify-bin/) [[dependees]](https://slackbuilds.org/advsearch.php?stype=revdep1&q=gitify-bin)  
 - [lm-studio-bin](https://slackbuilds.org/repository/15.0/development/lm-studio-bin/) [[dependees]](https://slackbuilds.org/advsearch.php?stype=revdep1&q=lm-studio-bin)  
 - [sourcegit](https://slackbuilds.org/repository/15.0/development/sourcegit/) [[dependees]](https://slackbuilds.org/advsearch.php?stype=revdep1&q=sourcegit)
-- [sourcegit](https://slackbuilds.org/repository/15.0/development/witsy/) [[dependees]](https://slackbuilds.org/advsearch.php?stype=revdep1&q=witsy)  
+- [witsy](https://slackbuilds.org/repository/15.0/development/witsy/) [[dependees]](https://slackbuilds.org/advsearch.php?stype=revdep1&q=witsy)  
 
 ### Network
 - [abdownloadmanager-bin](https://slackbuilds.org/repository/15.0/network/abdownloadmanager-bin/) [[dependees]](https://slackbuilds.org/advsearch.php?stype=revdep1&q=abdownloadmanager-bin)  
