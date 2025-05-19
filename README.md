@@ -3,62 +3,62 @@
 
 ## SlackBuilds List
 
-
 ### System
-- [Microsoft-Fonts](https://slackbuilds.org/repository/15.0/system/Microsoft-Fonts/) [[dependees]](https://slackbuilds.org/advsearch.php?stype=revdep1&q=Microsoft-Fonts)  
-- [c-lcrypt](https://slackbuilds.org/repository/15.0/system/c-lcrypt/) [[dependees]](https://slackbuilds.org/advsearch.php?stype=revdep1&q=c-lcrypt)  
-- [fzy](https://slackbuilds.org/repository/15.0/system/fzy/) [[dependees]](https://slackbuilds.org/advsearch.php?stype=revdep1&q=fzy)  
-- [jnv-bin](https://slackbuilds.org/repository/15.0/system/jnv-bin/) [[dependees]](https://slackbuilds.org/advsearch.php?stype=revdep1&q=jnv-bin)  
-- [sff](https://slackbuilds.org/repository/15.0/system/sff/) [[dependees]](https://slackbuilds.org/advsearch.php?stype=revdep1&q=sff)
-- [oxker-bin](https://slackbuilds.org/repository/15.0/system/oxker-bin/) [[dependees]](https://slackbuilds.org/advsearch.php?stype=revdep1&q=oxker-bin)  
+- [Microsoft-Fonts](https://slackbuilds.org/repository/15.0/system/Microsoft-Fonts/) || *[[README]](https://slackbuilds.org/slackbuilds/15.0/system/Microsoft-Fonts/README) ; [[INFO]](https://slackbuilds.org/slackbuilds/15.0/system/Microsoft-Fonts/Microsoft-Fonts.info) ; [[dependees]](https://slackbuilds.org/advsearch.php?stype=revdep1&q=Microsoft-Fonts)*
+- [c-lcrypt](https://slackbuilds.org/repository/15.0/system/c-lcrypt/) || *[[README]](https://slackbuilds.org/slackbuilds/15.0/system/c-lcrypt/README) ; [[INFO]](https://slackbuilds.org/slackbuilds/15.0/system/c-lcrypt/c-lcrypt.info) ; [[dependees]](https://slackbuilds.org/advsearch.php?stype=revdep1&q=c-lcrypt)*
+- [fzy](https://slackbuilds.org/repository/15.0/system/fzy/) || *[[README]](https://slackbuilds.org/slackbuilds/15.0/system/fzy/README) ; [[INFO]](https://slackbuilds.org/slackbuilds/15.0/system/fzy/fzy.info) ; [[dependees]](https://slackbuilds.org/advsearch.php?stype=revdep1&q=fzy)*
+- [jnv-bin](https://slackbuilds.org/repository/15.0/system/jnv-bin/) || *[[README]](https://slackbuilds.org/slackbuilds/15.0/system/jnv-bin/README) ; [[INFO]](https://slackbuilds.org/slackbuilds/15.0/system/jnv-bin/jnv-bin.info) ; [[dependees]](https://slackbuilds.org/advsearch.php?stype=revdep1&q=jnv-bin)*
+- [sff](https://slackbuilds.org/repository/15.0/system/sff/) || *[[README]](https://slackbuilds.org/slackbuilds/15.0/system/sff/README) ; [[INFO]](https://slackbuilds.org/slackbuilds/15.0/system/sff/sff.info) ; [[dependees]](https://slackbuilds.org/advsearch.php?stype=revdep1&q=sff)*
+- [oxker-bin](https://slackbuilds.org/repository/15.0/system/oxker-bin/) || *[[README]](https://slackbuilds.org/slackbuilds/15.0/system/oxker-bin/README) ; [[INFO]](https://slackbuilds.org/slackbuilds/15.0/system/oxker-bin/oxker-bin.info) ; [[dependees]](https://slackbuilds.org/advsearch.php?stype=revdep1&q=oxker-bin)*
 
 ### Office
-- [OpenAudible-bin](https://slackbuilds.org/repository/15.0/office/OpenAudible-bin/) [[dependees]](https://slackbuilds.org/advsearch.php?stype=revdep1&q=OpenAudible-bin)  
-- [csbooks-bin](https://slackbuilds.org/repository/15.0/office/csbooks-bin/) [[dependees]](https://slackbuilds.org/advsearch.php?stype=revdep1&q=csbooks-bin)  
-- [epub2txt2](https://slackbuilds.org/repository/15.0/office/epub2txt2/) [[dependees]](https://slackbuilds.org/advsearch.php?stype=revdep1&q=epub2txt2)  
-- [hunspell-ancient-greek](https://slackbuilds.org/repository/15.0/office/hunspell-ancient-greek/) [[dependees]](https://slackbuilds.org/advsearch.php?stype=revdep1&q=hunspell-ancient-greek)  
-- [hunspell-gr](https://slackbuilds.org/repository/15.0/office/hunspell-gr/) [[dependees]](https://slackbuilds.org/advsearch.php?stype=revdep1&q=hunspell-gr)  
-- [sent](https://slackbuilds.org/repository/15.0/office/sent/) [[dependees]](https://slackbuilds.org/advsearch.php?stype=revdep1&q=sent)
-- [star-tex](https://slackbuilds.org/repository/15.0/office/star-tex/) [[dependees]](https://slackbuilds.org/advsearch.php?stype=revdep1&q=star-tex)
+- [OpenAudible-bin](https://slackbuilds.org/repository/15.0/office/OpenAudible-bin/) || *[[README]](https://slackbuilds.org/slackbuilds/15.0/office/OpenAudible-bin/README) ; [[INFO]](https://slackbuilds.org/slackbuilds/15.0/office/OpenAudible-bin/OpenAudible-bin.info) ; [[dependees]](https://slackbuilds.org/advsearch.php?stype=revdep1&q=OpenAudible-bin)*
+- [csbooks-bin](https://slackbuilds.org/repository/15.0/office/csbooks-bin/) || *[[README]](https://slackbuilds.org/slackbuilds/15.0/office/csbooks-bin/README) ; [[INFO]](https://slackbuilds.org/slackbuilds/15.0/office/csbooks-bin/csbooks-bin.info) ; [[dependees]](https://slackbuilds.org/advsearch.php?stype=revdep1&q=csbooks-bin)*
+- [epub2txt2](https://slackbuilds.org/repository/15.0/office/epub2txt2/) || *[[README]](https://slackbuilds.org/slackbuilds/15.0/office/epub2txt2/README) ; [[INFO]](https://slackbuilds.org/slackbuilds/15.0/office/epub2txt2/epub2txt2.info) ; [[dependees]](https://slackbuilds.org/advsearch.php?stype=revdep1&q=epub2txt2)*
+- [hunspell-ancient-greek](https://slackbuilds.org/repository/15.0/office/hunspell-ancient-greek/) || *[[README]](https://slackbuilds.org/slackbuilds/15.0/office/hunspell-ancient-greek/README) ; [[INFO]](https://slackbuilds.org/slackbuilds/15.0/office/hunspell-ancient-greek/hunspell-ancient-greek.info) ; [[dependees]](https://slackbuilds.org/advsearch.php?stype=revdep1&q=hunspell-ancient-greek)*
+- [hunspell-gr](https://slackbuilds.org/repository/15.0/office/hunspell-gr/) || *[[README]](https://slackbuilds.org/slackbuilds/15.0/office/hunspell-gr/README) ; [[INFO]](https://slackbuilds.org/slackbuilds/15.0/office/hunspell-gr/hunspell-gr.info) ; [[dependees]](https://slackbuilds.org/advsearch.php?stype=revdep1&q=hunspell-gr)*
+- [sent](https://slackbuilds.org/repository/15.0/office/sent/) || *[[README]](https://slackbuilds.org/slackbuilds/15.0/office/sent/README) ; [[INFO]](https://slackbuilds.org/slackbuilds/15.0/office/sent/sent.info) ; [[dependees]](https://slackbuilds.org/advsearch.php?stype=revdep1&q=sent)*
+- [star-tex](https://slackbuilds.org/repository/15.0/office/star-tex/) || *[[README]](https://slackbuilds.org/slackbuilds/15.0/office/star-tex/README) ; [[INFO]](https://slackbuilds.org/slackbuilds/15.0/office/star-tex/star-tex.info) ; [[dependees]](https://slackbuilds.org/advsearch.php?stype=revdep1&q=star-tex)*
 
 ### Development
-- [a68g](https://slackbuilds.org/repository/15.0/development/a68g/) [[dependees]](https://slackbuilds.org/advsearch.php?stype=revdep1&q=a68g)  
-- [config-file-validator](https://slackbuilds.org/repository/15.0/development/config-file-validator/) [[dependees]](https://slackbuilds.org/advsearch.php?stype=revdep1&q=config-file-validator)  
-- [fortitude-bin](https://slackbuilds.org/repository/15.0/development/fortitude-bin/) [[dependees]](https://slackbuilds.org/advsearch.php?stype=revdep1&q=fortitude-bin)  
-- [gitify-bin](https://slackbuilds.org/repository/15.0/development/gitify-bin/) [[dependees]](https://slackbuilds.org/advsearch.php?stype=revdep1&q=gitify-bin)  
-- [lm-studio-bin](https://slackbuilds.org/repository/15.0/development/lm-studio-bin/) [[dependees]](https://slackbuilds.org/advsearch.php?stype=revdep1&q=lm-studio-bin)  
-- [sourcegit](https://slackbuilds.org/repository/15.0/development/sourcegit/) [[dependees]](https://slackbuilds.org/advsearch.php?stype=revdep1&q=sourcegit)
-- [witsy](https://slackbuilds.org/repository/15.0/development/witsy/) [[dependees]](https://slackbuilds.org/advsearch.php?stype=revdep1&q=witsy)  
+- [a68g](https://slackbuilds.org/repository/15.0/development/a68g/) || *[[README]](https://slackbuilds.org/slackbuilds/15.0/development/a68g/README) ; [[INFO]](https://slackbuilds.org/slackbuilds/15.0/development/a68g/a68g.info) ; [[dependees]](https://slackbuilds.org/advsearch.php?stype=revdep1&q=a68g)*
+- [config-file-validator](https://slackbuilds.org/repository/15.0/development/config-file-validator/) || *[[README]](https://slackbuilds.org/slackbuilds/15.0/development/config-file-validator/README) ; [[INFO]](https://slackbuilds.org/slackbuilds/15.0/development/config-file-validator/config-file-validator.info) ; [[dependees]](https://slackbuilds.org/advsearch.php?stype=revdep1&q=config-file-validator)*
+- [fortitude-bin](https://slackbuilds.org/repository/15.0/development/fortitude-bin/) || *[[README]](https://slackbuilds.org/slackbuilds/15.0/development/fortitude-bin/README) ; [[INFO]](https://slackbuilds.org/slackbuilds/15.0/development/fortitude-bin/fortitude-bin.info) ; [[dependees]](https://slackbuilds.org/advsearch.php?stype=revdep1&q=fortitude-bin)*
+- [gitify-bin](https://slackbuilds.org/repository/15.0/development/gitify-bin/) || *[[README]](https://slackbuilds.org/slackbuilds/15.0/development/gitify-bin/README) ; [[INFO]](https://slackbuilds.org/slackbuilds/15.0/development/gitify-bin/gitify-bin.info) ; [[dependees]](https://slackbuilds.org/advsearch.php?stype=revdep1&q=gitify-bin)*
+- [lm-studio-bin](https://slackbuilds.org/repository/15.0/development/lm-studio-bin/) || *[[README]](https://slackbuilds.org/slackbuilds/15.0/development/lm-studio-bin/README) ; [[INFO]](https://slackbuilds.org/slackbuilds/15.0/development/lm-studio-bin/lm-studio-bin.info) ; [[dependees]](https://slackbuilds.org/advsearch.php?stype=revdep1&q=lm-studio-bin)*
+- [sourcegit](https://slackbuilds.org/repository/15.0/development/sourcegit/) || *[[README]](https://slackbuilds.org/slackbuilds/15.0/development/sourcegit/README) ; [[INFO]](https://slackbuilds.org/slackbuilds/15.0/development/sourcegit/sourcegit.info) ; [[dependees]](https://slackbuilds.org/advsearch.php?stype=revdep1&q=sourcegit)*
+- [witsy](https://slackbuilds.org/repository/15.0/development/witsy/) || *[[README]](https://slackbuilds.org/slackbuilds/15.0/development/witsy/README) ; [[INFO]](https://slackbuilds.org/slackbuilds/15.0/development/witsy/witsy.info) ; [[dependees]](https://slackbuilds.org/advsearch.php?stype=revdep1&q=witsy)*
 
 ### Network
-- [abdownloadmanager-bin](https://slackbuilds.org/repository/15.0/network/abdownloadmanager-bin/) [[dependees]](https://slackbuilds.org/advsearch.php?stype=revdep1&q=abdownloadmanager-bin)  
-- [dooble](https://slackbuilds.org/repository/15.0/network/dooble/) [[dependees]](https://slackbuilds.org/advsearch.php?stype=revdep1&q=dooble)  
-- [dstp](https://slackbuilds.org/repository/15.0/network/dstp/) [[dependees]](https://slackbuilds.org/advsearch.php?stype=revdep1&q=dstp)  
-- [holehe](https://slackbuilds.org/repository/15.0/network/holehe/) [[dependees]](https://slackbuilds.org/advsearch.php?stype=revdep1&q=holehe)  
-- [s](https://slackbuilds.org/repository/15.0/network/s/) [[dependees]](https://slackbuilds.org/advsearch.php?stype=revdep1&q=s)  
-- [translate-shell](https://slackbuilds.org/repository/15.0/network/translate-shell/) [[dependees]](https://slackbuilds.org/advsearch.php?stype=revdep1&q=translate-shell)  
-- [turbo-attack](https://slackbuilds.org/repository/15.0/network/turbo-attack/) [[dependees]](https://slackbuilds.org/advsearch.php?stype=revdep1&q=turbo-attack)  
-- [turbo-scanner](https://slackbuilds.org/repository/15.0/network/turbo-scanner/) [[dependees]](https://slackbuilds.org/advsearch.php?stype=revdep1&q=turbo-scanner)  
+- [abdownloadmanager-bin](https://slackbuilds.org/repository/15.0/network/abdownloadmanager-bin/) || *[[README]](https://slackbuilds.org/slackbuilds/15.0/network/abdownloadmanager-bin/README) ; [[INFO]](https://slackbuilds.org/slackbuilds/15.0/network/abdownloadmanager-bin/abdownloadmanager-bin.info) ; [[dependees]](https://slackbuilds.org/advsearch.php?stype=revdep1&q=abdownloadmanager-bin)*
+- [dooble](https://slackbuilds.org/repository/15.0/network/dooble/) || *[[README]](https://slackbuilds.org/slackbuilds/15.0/network/dooble/README) ; [[INFO]](https://slackbuilds.org/slackbuilds/15.0/network/dooble/dooble.info) ; [[dependees]](https://slackbuilds.org/advsearch.php?stype=revdep1&q=dooble)*
+- [dstp](https://slackbuilds.org/repository/15.0/network/dstp/) || *[[README]](https://slackbuilds.org/slackbuilds/15.0/network/dstp/README) ; [[INFO]](https://slackbuilds.org/slackbuilds/15.0/network/dstp/dstp.info) ; [[dependees]](https://slackbuilds.org/advsearch.php?stype=revdep1&q=dstp)*
+- [holehe](https://slackbuilds.org/repository/15.0/network/holehe/) || *[[README]](https://slackbuilds.org/slackbuilds/15.0/network/holehe/README) ; [[INFO]](https://slackbuilds.org/slackbuilds/15.0/network/holehe/holehe.info) ; [[dependees]](https://slackbuilds.org/advsearch.php?stype=revdep1&q=holehe)*
+- [s](https://slackbuilds.org/repository/15.0/network/s/) || *[[README]](https://slackbuilds.org/slackbuilds/15.0/network/s/README) ; [[INFO]](https://slackbuilds.org/slackbuilds/15.0/network/s/s.info) ; [[dependees]](https://slackbuilds.org/advsearch.php?stype=revdep1&q=s)*
+- [translate-shell](https://slackbuilds.org/repository/15.0/network/translate-shell/) || *[[README]](https://slackbuilds.org/slackbuilds/15.0/network/translate-shell/README) ; [[INFO]](https://slackbuilds.org/slackbuilds/15.0/network/translate-shell/translate-shell.info) ; [[dependees]](https://slackbuilds.org/advsearch.php?stype=revdep1&q=translate-shell)*
+- [turbo-attack](https://slackbuilds.org/repository/15.0/network/turbo-attack/) || *[[README]](https://slackbuilds.org/slackbuilds/15.0/network/turbo-attack/README) ; [[INFO]](https://slackbuilds.org/slackbuilds/15.0/network/turbo-attack/turbo-attack.info) ; [[dependees]](https://slackbuilds.org/advsearch.php?stype=revdep1&q=turbo-attack)*
+- [turbo-scanner](https://slackbuilds.org/repository/15.0/network/turbo-scanner/) || *[[README]](https://slackbuilds.org/slackbuilds/15.0/network/turbo-scanner/README) ; [[INFO]](https://slackbuilds.org/slackbuilds/15.0/network/turbo-scanner/turbo-scanner.info) ; [[dependees]](https://slackbuilds.org/advsearch.php?stype=revdep1&q=turbo-scanner)*
 
 ### Misc
-- [balena-etcher-bin](https://slackbuilds.org/repository/15.0/misc/balena-etcher-bin/) [[dependees]](https://slackbuilds.org/advsearch.php?stype=revdep1&q=balena-etcher-bin)  
-- [countryfetch](https://slackbuilds.org/repository/15.0/misc/countryfetch/) [[dependees]](https://slackbuilds.org/advsearch.php?stype=revdep1&q=countryfetch)  
-- [stardict](https://slackbuilds.org/repository/15.0/misc/stardict/) [[dependees]](https://slackbuilds.org/advsearch.php?stype=revdep1&q=stardict)
-- [boxes](https://slackbuilds.org/repository/15.0/misc/boxes/)  [[dependees]](https://slackbuilds.org/advsearch.php?stype=revdep1&q=boxes)
+- [balena-etcher-bin](https://slackbuilds.org/repository/15.0/misc/balena-etcher-bin/) || *[[README]](https://slackbuilds.org/slackbuilds/15.0/misc/balena-etcher-bin/README) ; [[INFO]](https://slackbuilds.org/slackbuilds/15.0/misc/balena-etcher-bin/balena-etcher-bin.info) ; [[dependees]](https://slackbuilds.org/advsearch.php?stype=revdep1&q=balena-etcher-bin)*
+- [countryfetch](https://slackbuilds.org/repository/15.0/misc/countryfetch/) || *[[README]](https://slackbuilds.org/slackbuilds/15.0/misc/countryfetch/README) ; [[INFO]](https://slackbuilds.org/slackbuilds/15.0/misc/countryfetch/countryfetch.info) ; [[dependees]](https://slackbuilds.org/advsearch.php?stype=revdep1&q=countryfetch)*
+- [stardict](https://slackbuilds.org/repository/15.0/misc/stardict/) || *[[README]](https://slackbuilds.org/slackbuilds/15.0/misc/stardict/README) ; [[INFO]](https://slackbuilds.org/slackbuilds/15.0/misc/stardict/stardict.info) ; [[dependees]](https://slackbuilds.org/advsearch.php?stype=revdep1&q=stardict)*
+- [boxes](https://slackbuilds.org/repository/15.0/misc/boxes/) || *[[README]](https://slackbuilds.org/slackbuilds/15.0/misc/boxes/README) ; [[INFO]](https://slackbuilds.org/slackbuilds/15.0/misc/boxes/boxes.info) ; [[dependees]](https://slackbuilds.org/advsearch.php?stype=revdep1&q=boxes)*
+
 
 ### Audio
-- [dopamine-bin](https://slackbuilds.org/repository/15.0/audio/dopamine-bin/) [[dependees]](https://slackbuilds.org/advsearch.php?stype=revdep1&q=dopamine-bin)  
-- [noisetorch-bin](https://slackbuilds.org/repository/15.0/audio/noisetorch-bin/) [[dependees]](https://slackbuilds.org/advsearch.php?stype=revdep1&q=noisetorch-bin)  
-- [ocenaudio-bin](https://slackbuilds.org/repository/15.0/audio/ocenaudio-bin/) [[dependees]](https://slackbuilds.org/advsearch.php?stype=revdep1&q=ocenaudio-bin)  
+- [dopamine-bin](https://slackbuilds.org/repository/15.0/audio/dopamine-bin/) || *[[README]](https://slackbuilds.org/slackbuilds/15.0/audio/dopamine-bin/README) ; [[INFO]](https://slackbuilds.org/slackbuilds/15.0/audio/dopamine-bin/dopamine-bin.info) ; [[dependees]](https://slackbuilds.org/advsearch.php?stype=revdep1&q=dopamine-bin)*
+- [noisetorch-bin](https://slackbuilds.org/repository/15.0/audio/noisetorch-bin/) || *[[README]](https://slackbuilds.org/slackbuilds/15.0/audio/noisetorch-bin/README) ; [[INFO]](https://slackbuilds.org/slackbuilds/15.0/audio/noisetorch-bin/noisetorch-bin.info) ; [[dependees]](https://slackbuilds.org/advsearch.php?stype=revdep1&q=noisetorch-bin)* 
+- [ocenaudio-bin](https://slackbuilds.org/repository/15.0/audio/ocenaudio-bin/) || *[[README]](https://slackbuilds.org/slackbuilds/15.0/audio/ocenaudio-bin/README) ; [[INFO]](https://slackbuilds.org/slackbuilds/15.0/audio/ocenaudio-bin/ocenaudio-bin.info) ; [[dependees]](https://slackbuilds.org/advsearch.php?stype=revdep1&q=ocenaudio-bin)*
 
 ### Graphics
-- [fstl](https://slackbuilds.org/repository/15.0/graphics/fstl/) [[dependees]](https://slackbuilds.org/advsearch.php?stype=revdep1&q=fstl)  
-- [kgeotag](https://slackbuilds.org/repository/15.0/graphics/kgeotag/) [[dependees]](https://slackbuilds.org/advsearch.php?stype=revdep1&q=kgeotag)  
+- [fstl](https://slackbuilds.org/repository/15.0/graphics/fstl/) || *[[README]](https://slackbuilds.org/slackbuilds/15.0/graphics/fstl/README) ; [[INFO]](https://slackbuilds.org/slackbuilds/15.0/graphics/fstl/fstl.info) ; [[dependees]](https://slackbuilds.org/advsearch.php?stype=revdep1&q=fstl)*
+- [kgeotag](https://slackbuilds.org/repository/15.0/graphics/kgeotag/) || *[[README]](https://slackbuilds.org/slackbuilds/15.0/graphics/kgeotag/README) ; [[INFO]](https://slackbuilds.org/slackbuilds/15.0/graphics/kgeotag/kgeotag.info) ; [[dependees]](https://slackbuilds.org/advsearch.php?stype=revdep1&q=kgeotag)*
 
 ### Academic
-- [grb](https://slackbuilds.org/repository/15.0/academic/grb/) [[dependees]](https://slackbuilds.org/advsearch.php?stype=revdep1&q=grb)  
-- [kjv](https://slackbuilds.org/repository/15.0/academic/kjv/) [[dependees]](https://slackbuilds.org/advsearch.php?stype=revdep1&q=kjv)  
+- [grb](https://slackbuilds.org/repository/15.0/academic/grb/) || *[[README]](https://slackbuilds.org/slackbuilds/15.0/academic/grb/README) ; [[INFO]](https://slackbuilds.org/slackbuilds/15.0/academic/grb/grb.info) ; [[dependees]](https://slackbuilds.org/advsearch.php?stype=revdep1&q=grb)*
+- [kjv](https://slackbuilds.org/repository/15.0/academic/kjv/) || *[[README]](https://slackbuilds.org/slackbuilds/15.0/academic/kjv/README) ; [[INFO]](https://slackbuilds.org/slackbuilds/15.0/academic/kjv/kjv.info) ; [[dependees]](https://slackbuilds.org/advsearch.php?stype=revdep1&q=kjv)*
 
 ### Libraries
-- [gtk-fortran](https://slackbuilds.org/repository/15.0/libraries/gtk-fortran/) [[dependees]](https://slackbuilds.org/advsearch.php?stype=revdep1&q=gtk-fortran)  
+- [gtk-fortran](https://slackbuilds.org/repository/15.0/libraries/gtk-fortran/) || *[[README]](https://slackbuilds.org/slackbuilds/15.0/libraries/gtk-fortran/README) ; [[INFO]](https://slackbuilds.org/slackbuilds/15.0/libraries/gtk-fortran/gtk-fortran.info) ; [[dependees]](https://slackbuilds.org/advsearch.php?stype=revdep1&q=gtk-fortran)*
 
