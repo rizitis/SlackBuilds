@@ -1,3 +1,5 @@
+![slackware](./not_me.webp)
+
 # SlackBuilds
 > **SlackBuilds List of my contributions** on [SlackBuilds.org](https://slackbuilds.org/advsearch.php?q=rizitis%40gmail.com&stype=maint).
 
