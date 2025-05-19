@@ -1,5 +1,6 @@
 # SlackBuilds
-**my contribution to [SlackBuilds.org](https://slackbuilds.org/)**
+> **My contributions** on [SlackBuilds.org](https://slackbuilds.org/advsearch.php?q=rizitis%40gmail.com&stype=maint).
+
 
 ## SlackBuilds List
 
