@@ -1,8 +1,5 @@
 # SlackBuilds
-> **My contributions** on [SlackBuilds.org](https://slackbuilds.org/advsearch.php?q=rizitis%40gmail.com&stype=maint).
-
-
-## SlackBuilds List
+> **SlackBuilds List of my contributions** on [SlackBuilds.org](https://slackbuilds.org/advsearch.php?q=rizitis%40gmail.com&stype=maint).
 
 ### System
 - [Microsoft-Fonts](https://slackbuilds.org/repository/15.0/system/Microsoft-Fonts/) || *[[README]](https://slackbuilds.org/slackbuilds/15.0/system/Microsoft-Fonts/README) ; [[INFO]](https://slackbuilds.org/slackbuilds/15.0/system/Microsoft-Fonts/Microsoft-Fonts.info) ; [[dependees]](https://slackbuilds.org/advsearch.php?stype=revdep1&q=Microsoft-Fonts)*
