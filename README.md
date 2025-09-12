@@ -68,5 +68,5 @@
 - [python3-slacklog](https://slackbuilds.org/repository/15.0/python/python3-slacklog/) || *[[README]](https://slackbuilds.org/slackbuilds/15.0/python/python3-slacklog/README) ; [[INFO]](https://slackbuilds.org/slackbuilds/15.0/python/python3-slacklog/python3-slacklog.info) ; [[dependees]](https://slackbuilds.org/advsearch.php?stype=revdep1&q=python3-slacklog)*
 
 ### Multimedia
-- [ytdlp-gui](https://slackbuilds.org/repository/15.0/multimedia/ytdlp-gui/) || *[[README]](https://slackbuilds.org/repository/15.0/multimedia/ytdlp-gui/README) ; [[INFO]](https://slackbuilds.org/repository/15.0/multimedia/ytdlp-gui/ytdlp-gui.info) ; [[dependees]](https://slackbuilds.org/advsearch.php?stype=revdep1&q=ytdlp-gui)*
+- [ytdlp-gui](https://slackbuilds.org/repository/15.0/multimedia/ytdlp-gui/) || *[[README](https://slackbuilds.org/slackbuilds/15.0/multimedia/ytdlp-gui/README) ; [[INFO]](https://slackbuilds.org/slackbuilds/15.0/multimedia/ytdlp-gui/ytdlp-gui.info) ; [[dependees]](https://slackbuilds.org/advsearch.php?stype=revdep1&q=ytdlp-gui)*
 
