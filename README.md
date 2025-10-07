@@ -64,6 +64,7 @@
 
 ### Libraries
 - [gtk-fortran](https://slackbuilds.org/repository/15.0/libraries/gtk-fortran/) || *[[README]](https://slackbuilds.org/slackbuilds/15.0/libraries/gtk-fortran/README) ; [[INFO]](https://slackbuilds.org/slackbuilds/15.0/libraries/gtk-fortran/gtk-fortran.info) ; [[dependees]](https://slackbuilds.org/advsearch.php?stype=revdep1&q=gtk-fortran)*
+- [tree-sitter-yaml](https://slackbuilds.org/repository/15.0/libraries/tree-sitter-yaml/) || *[[README]](https://slackbuilds.org/slackbuilds/15.0/libraries/tree-sitter-yaml/README) ; [[INFO]](https://slackbuilds.org/slackbuilds/15.0/libraries/tree-sitter-yaml/tree-sitter-yaml.info) ; [[dependees]](https://slackbuilds.org/advsearch.php?stype=revdep1&q=tree-sitter-yaml)*
 
 ### Python
 - [python3-gTTS](https://slackbuilds.org/repository/15.0/python/python3-gTTS/) || *[[README]](https://slackbuilds.org/slackbuilds/15.0/python/python3-gTTS/README) ; [[INFO]](https://slackbuilds.org/slackbuilds/15.0/python/python3-gTTS/python3-gTTS.info) ; [[dependees]](https://slackbuilds.org/advsearch.php?stype=revdep1&q=python3-gTTS)*
