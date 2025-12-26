@@ -50,6 +50,7 @@
 - [countryfetch](https://slackbuilds.org/repository/15.0/misc/countryfetch/) || *[[README]](https://slackbuilds.org/slackbuilds/15.0/misc/countryfetch/README) ; [[INFO]](https://slackbuilds.org/slackbuilds/15.0/misc/countryfetch/countryfetch.info) ; [[dependees]](https://slackbuilds.org/advsearch.php?stype=revdep1&q=countryfetch)*
 - [stardict](https://slackbuilds.org/repository/15.0/misc/stardict/) || *[[README]](https://slackbuilds.org/slackbuilds/15.0/misc/stardict/README) ; [[INFO]](https://slackbuilds.org/slackbuilds/15.0/misc/stardict/stardict.info) ; [[dependees]](https://slackbuilds.org/advsearch.php?stype=revdep1&q=stardict)*
 - [boxes](https://slackbuilds.org/repository/15.0/misc/boxes/) || *[[README]](https://slackbuilds.org/slackbuilds/15.0/misc/boxes/README) ; [[INFO]](https://slackbuilds.org/slackbuilds/15.0/misc/boxes/boxes.info) ; [[dependees]](https://slackbuilds.org/advsearch.php?stype=revdep1&q=boxes)*
+- [shh](https://slackbuilds.org/repository/15.0/misc/shh/) || *[[README]](https://slackbuilds.org/slackbuilds/15.0/misc/shh/README) ; [[INFO]](https://slackbuilds.org/slackbuilds/15.0/misc/shh/shh.info) ; [[dependees]](https://slackbuilds.org/advsearch.php?stype=revdep1&q=shh)*
 
 
 ### Audio
