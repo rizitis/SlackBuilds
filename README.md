@@ -10,6 +10,7 @@
 - [jnv-bin](https://slackbuilds.org/repository/15.0/system/jnv-bin/) || *[[README]](https://slackbuilds.org/slackbuilds/15.0/system/jnv-bin/README) ; [[INFO]](https://slackbuilds.org/slackbuilds/15.0/system/jnv-bin/jnv-bin.info) ; [[dependees]](https://slackbuilds.org/advsearch.php?stype=revdep1&q=jnv-bin)*
 - [sff](https://slackbuilds.org/repository/15.0/system/sff/) || *[[README]](https://slackbuilds.org/slackbuilds/15.0/system/sff/README) ; [[INFO]](https://slackbuilds.org/slackbuilds/15.0/system/sff/sff.info) ; [[dependees]](https://slackbuilds.org/advsearch.php?stype=revdep1&q=sff)*
 - [oxker-bin](https://slackbuilds.org/repository/15.0/system/oxker-bin/) || *[[README]](https://slackbuilds.org/slackbuilds/15.0/system/oxker-bin/README) ; [[INFO]](https://slackbuilds.org/slackbuilds/15.0/system/oxker-bin/oxker-bin.info) ; [[dependees]](https://slackbuilds.org/advsearch.php?stype=revdep1&q=oxker-bin)*
+- [witr](https://slackbuilds.org/repository/15.0/system/witr/) || *[[README]](https://slackbuilds.org/slackbuilds/15.0/system/witr/README) ; [[INFO]](https://slackbuilds.org/slackbuilds/15.0/system/witr/witr.info) ; [[dependees]](https://slackbuilds.org/advsearch.php?stype=revdep1&q=witr)*
 
 ### Office
 - [OpenAudible-bin](https://slackbuilds.org/repository/15.0/office/OpenAudible-bin/) || *[[README]](https://slackbuilds.org/slackbuilds/15.0/office/OpenAudible-bin/README) ; [[INFO]](https://slackbuilds.org/slackbuilds/15.0/office/OpenAudible-bin/OpenAudible-bin.info) ; [[dependees]](https://slackbuilds.org/advsearch.php?stype=revdep1&q=OpenAudible-bin)*
