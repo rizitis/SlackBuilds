@@ -27,6 +27,7 @@
 - [lm-studio-bin](https://slackbuilds.org/repository/15.0/development/lm-studio-bin/) || *[[README]](https://slackbuilds.org/slackbuilds/15.0/development/lm-studio-bin/README) ; [[INFO]](https://slackbuilds.org/slackbuilds/15.0/development/lm-studio-bin/lm-studio-bin.info) ; [[dependees]](https://slackbuilds.org/advsearch.php?stype=revdep1&q=lm-studio-bin)*
 - [cargo-auditable](https://slackbuilds.org/repository/15.0/development/cargo-auditable/) || *[[README]](https://slackbuilds.org/slackbuilds/15.0/development/cargo-auditable/README) ; [[INFO]](https://slackbuilds.org/slackbuilds/15.0/development/cargo-auditable/cargo-auditable.info) ; [[dependees]](https://slackbuilds.org/advsearch.php?stype=revdep1&q=cargo-auditable)*
 - [gum](https://slackbuilds.org/repository/15.0/development/gum/) || *[[README]](https://slackbuilds.org/slackbuilds/15.0/development/gum/README) ; [[INFO]](https://slackbuilds.org/slackbuilds/15.0/development/gum/gum.info) ; [[dependees]](https://slackbuilds.org/advsearch.php?stype=revdep1&q=gum)*
+- [dub](https://slackbuilds.org/repository/15.0/development/dub/) || *[[README]](https://slackbuilds.org/slackbuilds/15.0/development/dub/README) ; [[INFO]](https://slackbuilds.org/slackbuilds/15.0/development/dub/dub.info) ; [[dependees]](https://slackbuilds.org/advsearch.php?stype=revdep1&q=dub)*
 
 
 ### Network
