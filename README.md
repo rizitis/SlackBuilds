@@ -65,6 +65,8 @@
 
 ### Libraries
 - [tree-sitter-yaml](https://slackbuilds.org/repository/15.0/libraries/tree-sitter-yaml/) || *[[README]](https://slackbuilds.org/slackbuilds/15.0/libraries/tree-sitter-yaml/README) ; [[INFO]](https://slackbuilds.org/slackbuilds/15.0/libraries/tree-sitter-yaml/tree-sitter-yaml.info) ; [[dependees]](https://slackbuilds.org/advsearch.php?stype=revdep1&q=tree-sitter-yaml)*
+- [libcamera](https://slackbuilds.org/repository/15.0/libraries/libcamera/) || *[[README]](https://slackbuilds.org/slackbuilds/15.0/libraries/libcamera/README) ; [[INFO]](https://slackbuilds.org/slackbuilds/15.0/libraries/libcamera/libcamera.info) ; [[dependees]](https://slackbuilds.org/advsearch.php?stype=revdep1&q=libcamera)*
+- [lttng-ust](https://slackbuilds.org/repository/15.0/libraries/lttng-ust/) || *[[README]](https://slackbuilds.org/slackbuilds/15.0/libraries/lttng-ust/README) ; [[INFO]](https://slackbuilds.org/slackbuilds/15.0/libraries/lttng-ust/lttng-ust.info) ; [[dependees]](https://slackbuilds.org/advsearch.php?stype=revdep1&q=lttng-ust)*
 
 ### Python
 - [python3-gTTS](https://slackbuilds.org/repository/15.0/python/python3-gTTS/) || *[[README]](https://slackbuilds.org/slackbuilds/15.0/python/python3-gTTS/README) ; [[INFO]](https://slackbuilds.org/slackbuilds/15.0/python/python3-gTTS/python3-gTTS.info) ; [[dependees]](https://slackbuilds.org/advsearch.php?stype=revdep1&q=python3-gTTS)*
