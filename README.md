@@ -43,6 +43,7 @@
 - [DownTube](https://slackbuilds.org/repository/15.0/network/DownTube/) || *[[README]](https://slackbuilds.org/slackbuilds/15.0/network/DownTube/README) ; [[INFO]](https://slackbuilds.org/slackbuilds/15.0/network/DownTube/DownTube.info) ; [[dependees]](https://slackbuilds.org/advsearch.php?stype=revdep1&q=DownTube)*
 - [glance](https://slackbuilds.org/repository/15.0/network/glance/) || *[[README]](https://slackbuilds.org/slackbuilds/15.0/network/glance/README) ; [[INFO]](https://slackbuilds.org/slackbuilds/15.0/network/glance/glance.info) ; [[dependees]](https://slackbuilds.org/advsearch.php?stype=revdep1&q=glance)*
 - [repology-cli](https://slackbuilds.org/repository/15.0/network/repology-cli/) || *[[README]](https://slackbuilds.org/slackbuilds/15.0/network/repology-cli/README) ; [[INFO]](https://slackbuilds.org/slackbuilds/15.0/network/repology-cli/repology-cli.info) ; [[dependees]](https://slackbuilds.org/advsearch.php?stype=revdep1&q=repology-cli)*
+- [pwntools](https://slackbuilds.org/repository/15.0/network/pwntools/) || *[[README]](https://slackbuilds.org/slackbuilds/15.0/network/pwntools/README) ; [[INFO]](https://slackbuilds.org/slackbuilds/15.0/network/pwntools/pwntools.info) ; [[dependees]](https://slackbuilds.org/advsearch.php?stype=revdep1&q=pwntools)*
 
 ### Misc
 - [countryfetch](https://slackbuilds.org/repository/15.0/misc/countryfetch/) || *[[README]](https://slackbuilds.org/slackbuilds/15.0/misc/countryfetch/README) ; [[INFO]](https://slackbuilds.org/slackbuilds/15.0/misc/countryfetch/countryfetch.info) ; [[dependees]](https://slackbuilds.org/advsearch.php?stype=revdep1&q=countryfetch)*
@@ -73,6 +74,7 @@
 ### Python
 - [python3-gTTS](https://slackbuilds.org/repository/15.0/python/python3-gTTS/) || *[[README]](https://slackbuilds.org/slackbuilds/15.0/python/python3-gTTS/README) ; [[INFO]](https://slackbuilds.org/slackbuilds/15.0/python/python3-gTTS/python3-gTTS.info) ; [[dependees]](https://slackbuilds.org/advsearch.php?stype=revdep1&q=python3-gTTS)*
 - [python3-slacklog](https://slackbuilds.org/repository/15.0/python/python3-slacklog/) || *[[README]](https://slackbuilds.org/slackbuilds/15.0/python/python3-slacklog/README) ; [[INFO]](https://slackbuilds.org/slackbuilds/15.0/python/python3-slacklog/python3-slacklog.info) ; [[dependees]](https://slackbuilds.org/advsearch.php?stype=revdep1&q=python3-slacklog)*
+- [python3-unicorn](https://slackbuilds.org/repository/15.0/python/python3-unicorn/) || *[[README]](https://slackbuilds.org/slackbuilds/15.0/python/python3-unicorn/README) ; [[INFO]](https://slackbuilds.org/slackbuilds/15.0/python/python3-unicorn/python3-unicorn.info) ; [[dependees]](https://slackbuilds.org/advsearch.php?stype=revdep1&q=python3-unicorn)*
 
 ### Multimedia
 - [ytdlp-gui](https://slackbuilds.org/repository/15.0/multimedia/ytdlp-gui/) || *[README](https://slackbuilds.org/slackbuilds/15.0/multimedia/ytdlp-gui/README) ; [[INFO]](https://slackbuilds.org/slackbuilds/15.0/multimedia/ytdlp-gui/ytdlp-gui.info) ; [[dependees]](https://slackbuilds.org/advsearch.php?stype=revdep1&q=ytdlp-gui)*
